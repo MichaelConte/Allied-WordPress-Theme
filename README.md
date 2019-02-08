@@ -7,6 +7,8 @@ Allied is a clean responsive blog WordPress theme. Allied Blog WordPress theme i
 
 ### Click Here to check [Demo Site](https://www.downgraf.com/allied/)
 
+Download the Theme from [Themes Apex](https://www.downgraf.com/themes-apex/)
+
 ### Changelog
 **V** 1.0.0
 
